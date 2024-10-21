@@ -1,0 +1,15 @@
+E:\Swinburne\Semester2\COS20007\6.3+6.5\EmployeeSystem_test_02\EmployeeSystem_test_02\bin\Debug\EmployeeSystem_test_02.exe.config
+E:\Swinburne\Semester2\COS20007\6.3+6.5\EmployeeSystem_test_02\EmployeeSystem_test_02\bin\Debug\EmployeeSystem_test_02.exe
+E:\Swinburne\Semester2\COS20007\6.3+6.5\EmployeeSystem_test_02\EmployeeSystem_test_02\bin\Debug\EmployeeSystem_test_02.pdb
+E:\Swinburne\Semester2\COS20007\6.3+6.5\EmployeeSystem_test_02\EmployeeSystem_test_02\obj\Debug\EmployeeSystem_test_02.csproj.AssemblyReference.cache
+E:\Swinburne\Semester2\COS20007\6.3+6.5\EmployeeSystem_test_02\EmployeeSystem_test_02\obj\Debug\EmployeeSystem_test_02.Properties.Resources.resources
+E:\Swinburne\Semester2\COS20007\6.3+6.5\EmployeeSystem_test_02\EmployeeSystem_test_02\obj\Debug\EmployeeSystem_test_02.csproj.GenerateResource.cache
+E:\Swinburne\Semester2\COS20007\6.3+6.5\EmployeeSystem_test_02\EmployeeSystem_test_02\obj\Debug\EmployeeSystem_test_02.csproj.CoreCompileInputs.cache
+E:\Swinburne\Semester2\COS20007\6.3+6.5\EmployeeSystem_test_02\EmployeeSystem_test_02\obj\Debug\EmployeeSystem_test_02.exe
+E:\Swinburne\Semester2\COS20007\6.3+6.5\EmployeeSystem_test_02\EmployeeSystem_test_02\obj\Debug\EmployeeSystem_test_02.pdb
+E:\Swinburne\Semester2\COS20007\6.3+6.5\EmployeeSystem_test_02\EmployeeSystem_test_02\obj\Debug\EmployeeSystem_test_02.RegisterForm.resources
+E:\Swinburne\Semester2\COS20007\6.3+6.5\EmployeeSystem_test_02\EmployeeSystem_test_02\obj\Debug\EmployeeSystem_test_02.LoginForm.resources
+E:\Swinburne\Semester2\COS20007\6.3+6.5\EmployeeSystem_test_02\EmployeeSystem_test_02\obj\Debug\EmployeeSystem_test_02.MainForm.resources
+E:\Swinburne\Semester2\COS20007\6.3+6.5\EmployeeSystem_test_02\EmployeeSystem_test_02\obj\Debug\EmployeeSystem_test_02.Dashboard.resources
+E:\Swinburne\Semester2\COS20007\6.3+6.5\EmployeeSystem_test_02\EmployeeSystem_test_02\obj\Debug\EmployeeSystem_test_02.AddEmployeeForm.resources
+E:\Swinburne\Semester2\COS20007\6.3+6.5\EmployeeSystem_test_02\EmployeeSystem_test_02\obj\Debug\EmployeeSystem_test_02.SalaryForm.resources
